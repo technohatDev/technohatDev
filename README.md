@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ammar Yaser
 
-## Senior Software Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;Expert+Frontend+Engineer;Backend+Engineer;Mobile+App+Engineer)](https://git.io/typing-svg)
 
 🚀 I am a Senior Software Engineer with +10 years of experience specializing in Full-Stack Development (Frontend-Focused).
 
