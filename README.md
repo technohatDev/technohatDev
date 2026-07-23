@@ -10,7 +10,7 @@
 
 🏗️ Also, have a Strong background in project management methodologies using Agile (Scrum and Kanban) and Waterfall. Consistently, I used to be passionate about color, shapes, logic, and mathematics, and at the same time, I was fond of writing code. Finally, I discovered the way I can combine them. In my view, programming is a way to survive. I started the journey from the earliest age (15 years old), beginning from the basics and diving into the advanced more profound, and deeper, then I made more projects for different clients from different countries.
 
-- 🌍  I'm based in Egypt
+- 🌍  I'm based in Egypt / UAE (Dubai)
 - 🖥️  See my portfolio at [ammaryaser.com](http://ammaryaser.com/)
 - ✉️  You can contact me at [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com)
 - ☎️ You can phone me at [+201092485755](tel:+201092485755)
