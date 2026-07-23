@@ -2,13 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;Expert+Frontend+Engineer;Backend+Engineer;Mobile+App+Engineer)](https://git.io/typing-svg)
 
-🚀 I am a Senior Software Engineer with +10 years of experience specializing in Full-Stack Development (Frontend-Focused).
+🧑‍💻 Software Engineer & Product Builder for over a decade, with a strong, hands-on background across the full software lifecycle.
 
-👨‍💻 Experienced with all stages of the development cycle for dynamic Large-Scale Software-Based projects.
+With solid experience spanning multiple domains in Software Engineering, I specialize in turning ideas into complete, scalable, and production-ready digital products capable of serving thousands — and even millions — of users.
 
-🔍 Well-versed in numerous programming languages including Advanced (HTML, CSS), TypeScript, PHP, MySQL, and MongoDB. And frameworks including React.js, Next.js, React Native, Vue.js, Tailwind CSS, Electron.js, Express.js, and Nest.js.
+My strength lies in seeing the product as a whole, rather than just the code. I work across the entire stack and lifecycle:
+• Product planning & technical strategy
+• Project & team management
+• Frontend & backend development
+• Mobile and desktop applications
+• System architecture & deployment
 
-🏗️ Also, have a Strong background in project management methodologies using Agile (Scrum and Kanban) and Waterfall. Consistently, I used to be passionate about color, shapes, logic, and mathematics, and at the same time, I was fond of writing code. Finally, I discovered the way I can combine them. In my view, programming is a way to survive. I started the journey from the earliest age (15 years old), beginning from the basics and diving into the advanced more profound, and deeper, then I made more projects for different clients from different countries.
+This cross-functional experience allows me to bridge the gap between business goals, user experience, and technical execution — ensuring that products are not only well-built, but also sustainable, maintainable, and impactful.
+
+I thrive in environments where ownership matters. I treat every product as if it were my own, focusing on quality, scalability, and long-term growth rather than short-term delivery.
+
+If you’re building a product that needs strong technical leadership, clear vision, and end-to-end execution — I bring all three to the table.
 
 - 🌍  I'm based in Egypt / UAE (Dubai)
 - 🖥️  See my portfolio at [ammaryaser.com](http://ammaryaser.com/)
